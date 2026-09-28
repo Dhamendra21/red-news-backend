@@ -1,0 +1,5 @@
+node_modules/
+.env
+firebase-admin.json
+.txt
+red-news-f6279-firebase-adminsdk-fbsvc-a324eae495.json 
